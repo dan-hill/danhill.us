@@ -1,0 +1,12 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.menu {
+    margin-bottom: 15px;
+}
+
+p {
+    max-width: 80ch;
+    margin-bottom: 15px;
+}

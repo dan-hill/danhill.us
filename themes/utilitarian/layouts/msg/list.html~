@@ -1,0 +1,4 @@
+{{ partial "header.html" }}
+{{ partial "menu.html" }}
+{{ .Params.email }}
+{{ partial "footer.html" }}
